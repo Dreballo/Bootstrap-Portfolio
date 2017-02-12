@@ -1,0 +1,49 @@
+.btn-primary{
+
+	background-color: #40b7f0;
+}
+
+.bg-primary{
+
+	background-color: #40b7f0;
+}
+
+hr{
+	border-color: #40b7f0;
+}
+
+.portfolio-box .portfolio-box-caption {
+
+	background-color: #40b7f0;
+}
+
+@media (min-width: 768px){ .navbar-default.affix .navbar-header .navbar-brand {
+
+	color:#40b7f0;
+}}
+
+
+@media (min-width: 640px){ .navbar-default.affix .navbar-header .navbar-brand .navbar-default {
+
+	color:#40b7f0;
+}}
+
+
+.fa-diamond:before{
+	color:#40b7f0;
+}
+
+.fa-send:before, .fa-paper-plane:before{
+	color:#40b7f0;
+}
+
+
+.fa-heart:before{
+	color:#40b7f0;
+}
+
+ a{
+	color:#40b7f0;
+}
+
+
